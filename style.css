@@ -1,0 +1,13 @@
+body p {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+p.pierwsze {
+    background-color: blue;
+}
+
+p.kolejne {
+    opacity: 0.5;
+}
